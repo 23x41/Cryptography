@@ -14,7 +14,7 @@ usage:
 dehack.sh secret.txt
 
 
-Programs take arguement of n times to be encoded/decoded in base64
+encode&decode Programs take arguement of n times to be encoded/decoded in base64
 
 example usage: ./encode.sh 42 plaintext.msg > secret.txt
 
