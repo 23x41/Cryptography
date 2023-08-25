@@ -1,9 +1,16 @@
 Hack.sh will take a secret message in the form of
+
 hack.sh plain.txt 21
+
 and iterate n number of cycles through base 16,32,64 and hex
+
 and save that encryption order in a key.txt file which
+
 Dehack will use to decrypt and reverse the message secret.txt
+
 usage:
+
+
 dehack.sh secret.txt
 
 
